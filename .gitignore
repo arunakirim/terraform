@@ -3,4 +3,4 @@
 !/ec2Instance/.*
 !/.gitignore
 ec2Instance/.*
-terraform/*/.*
+ec2Instance/.terraform/*
