@@ -4,3 +4,4 @@
 !/.gitignore
 ec2Instance/.*
 ec2Instance/.terraform/*
+DynamoDB/.*
