@@ -4,4 +4,5 @@
 !/.gitignore
 ec2Instance/.*
 ec2Instance/.terraform/*
-DynamoDB/.*
+aws_DynamoDB/.*
+Version_constraints/.*
