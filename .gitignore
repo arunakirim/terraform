@@ -6,3 +6,10 @@ ec2Instance/.*
 ec2Instance/.terraform/*
 aws_DynamoDB/.*
 Version_constraints/.*
+aws_IAM/.*
+aws_S3/.*
+CountandForEach/.*
+Data_Source/.*
+Dynamic/.*
+Provisioner/.*
+workspace/.*
