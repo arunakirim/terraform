@@ -8,6 +8,7 @@ aws_DynamoDB/.*
 Version_constraints/.*
 aws_IAM/.*
 aws_S3/.*
+aws_S3/terraform.tfstate
 CountandForEach/.*
 Data_Source/.*
 Dynamic/.*
