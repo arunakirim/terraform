@@ -6,6 +6,7 @@ resource "aws_iam_user" "UAT_Users" {
     department  = var.Users_details.department
 
   }
+  //adding provider requirements
 }
 
 output "IAM_Users" {

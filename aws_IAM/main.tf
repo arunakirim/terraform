@@ -24,4 +24,5 @@ resource "aws_iam_policy" "Administrator" {
 resource "aws_iam_user_policy_attachment" "attach_administrators" {
   user       = aws_iam_user.Admin_usrs.id
   policy_arn = aws_iam_policy.Administrator.id
+
 }
